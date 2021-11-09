@@ -1682,14 +1682,14 @@ div.carousel-mms-messaging .slide-text-outer p {
 .detail-out {
     cursor: pointer;
 }
-.detail-out .about-default:hover {
+/* .detail-out .about-default:hover {
     display: none;
     transition: 0.5s ease-out;
-}
-.detail-out .about-default:hover + .about-hover {
+} */
+/* .detail-out .about-default:hover + .about-hover {
     display: block;
     transition: 0.5s ease-in;
-}
+} */
 .carousel-value .outer-slide-div {
     border: 1px solid transparent;
     border-radius: 0;
